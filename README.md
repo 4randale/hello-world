@@ -1,3 +1,3 @@
 # hello-world
 Test Repository
-Learning how to use Git
+Just starting out learning how to use Git.
